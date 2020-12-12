@@ -1,0 +1,7 @@
+C:\Users\17203\source\repos\Crime Analyzer\Crime Analyzer\obj\Debug\Crime Analyzer.csprojAssemblyReference.cache
+C:\Users\17203\source\repos\Crime Analyzer\Crime Analyzer\obj\Debug\Crime Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\17203\source\repos\Crime Analyzer\Crime Analyzer\bin\Debug\Crime Analyzer.exe.config
+C:\Users\17203\source\repos\Crime Analyzer\Crime Analyzer\bin\Debug\Crime Analyzer.exe
+C:\Users\17203\source\repos\Crime Analyzer\Crime Analyzer\bin\Debug\Crime Analyzer.pdb
+C:\Users\17203\source\repos\Crime Analyzer\Crime Analyzer\obj\Debug\Crime Analyzer.exe
+C:\Users\17203\source\repos\Crime Analyzer\Crime Analyzer\obj\Debug\Crime Analyzer.pdb
